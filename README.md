@@ -1,6 +1,6 @@
 # Energy Challenge Solution 
 
-Please refer to https://github.com/Zerowatt-Plus/energy-challenge for more details and files not included in this repo
+Please refer to https://github.com/Zerowatt-Plus/energy-challenge for more details and files not included in this repo  
 This repository contains my solution to the 3-phase motor energy analysis challenge.
 
 ---
